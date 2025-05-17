@@ -33,6 +33,7 @@ There are many sources of English dictionaries available
 
   <details>
   <summary>Related licenses</summary>
+    
   > Licences:
   > - `dictionary-en`    English | MIT AND BSD
   > - `dictionary-en-au` English (Australia) | MIT AND BSD
